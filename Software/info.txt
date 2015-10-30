@@ -1,0 +1,6 @@
+<h1>Install info</h1>
+
+ISO from Adafruit contains operating systems (RetroPie) complete with EmulationStation (emulators) and <br>
+Adafruit's software for a ptft screen. <br>
+
+Code and inputs for buttons on Ptft screen 
