@@ -17,9 +17,9 @@ The goal of this project is to improve upon Adafruit’s Pocket Pigrrl design in
 
 5. The fifth deliverability will be to use a Raspberry Pi2 instead, while keeping the size roughly the same. This would be a welcome improvement as it would greatly improve the systems emulation capabilities. As well, this may also mean adding an improved power supply to the console. 
 
-<h1>Build Instructions (Currently for goal 1</h1>
+<h1>Build Instructions (Currently for goal 1)</h1>
 
--download CAD files from CAD folder, and print <br>
+-download CAD files from CAD folder, and print (Goal one/original design by AdaFruit found: https://www.thingiverse.com/thing:807591) <br>
 -Pocket PiGrrl build instructions can be found here: https://learn.adafruit.com/pocket-pigrrl/overview <br>
 -Download latest ISO image from Software folder. Install on SD card for Raspberry Pi (detailed installation instructions <br>
 for different operatings systems can be found in the info file inside software directory). <br>
