@@ -4,3 +4,22 @@ ISO from Adafruit contains operating systems (RetroPie) complete with EmulationS
 Adafruit's software for a ptft screen. <br>
 
 Code and inputs for buttons on Ptft screen 
+
+
+<h1>Installing image onto SD card for Raspberry PI</h1>
+
+<h2>Windows</h2>
+1) Format drive to FAT32 <br>
+Note: Since windows can't see the OS partition, a 3rd party software solution is required for this. <br>
+I recommend the free program MiniTool Partition Wizard: http://www.partitionwizard.com/download.html <br>
+
+2) Install image to SD card (Again need a 3rd party software solution) <br>
+-For this I recommend the free software tool Win32 Disk Manager:http://sourceforge.net/projects/win32diskimager/
+
+<h2>Linux</h2>
+-Instructions can be found here: <br>
+https://www.raspberrypi.org/documentation/installation/installing-images/linux.md
+
+<h2>Mac OS</h2>
+-Instructions can be found here: <br>
+https://www.raspberrypi.org/documentation/installation/installing-images/mac.md
