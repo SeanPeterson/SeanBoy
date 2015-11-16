@@ -1,0 +1,1 @@
+Goal2: Capability to switch between speaker and headphone jack.
