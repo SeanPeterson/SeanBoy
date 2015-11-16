@@ -17,10 +17,11 @@ The goal of this project is to improve upon Adafruit’s Pocket Pigrrl design in
 
 5. The fifth deliverability will be to use a Raspberry Pi2 instead, while keeping the size roughly the same. This would be a welcome improvement as it would greatly improve the systems emulation capabilities. As well, this may also mean adding an improved power supply to the console. 
 
-<h1>Build Instructions (Currently for goal 1)</h1>
+<h1>Build Instructions (Currently for goal 1 & Goal 2)</h1>
 
 -download CAD files from CAD folder, and print (Goal one/original design by AdaFruit found: https://www.thingiverse.com/thing:807591) <br>
 -Pocket PiGrrl build instructions can be found here: https://learn.adafruit.com/pocket-pigrrl/overview <br>
+(Go to goal 2 section to see how to install audio jack. <br>
 -Download latest ISO image from Software folder. Install on SD card for Raspberry Pi (detailed installation instructions <br>
 for different operatings systems can be found in the info file inside software directory). <br>
 -Button mappings for Adafruit's PiTFT screen can be found here: https://learn.adafruit.com/pocket-pigrrl/software-1 <br>
@@ -29,6 +30,9 @@ for different operatings systems can be found in the info file inside software d
 -(FIXED - SEE GOAL 1) Currently the sound has major interference.. This problem seems to be a known issue as reported on the AdaFruit forums that is either resulting from the AdaFruit's amp, or the pi itself. <https://forums.adafruit.com/viewtopic.php?f=50&t=79200> <br>
 -There's a gap between the top and bottom of the gameboy case. May need to extend sides and sand it down.<br>
 -Magnet not doing a good job of keeping the case close, another screw in bottom right corner would work better. <br>
+
+#Materials
+Coming soon ...
 
 # Project
 Code, and diagrams can be found here: https://github.com/SeanPeterson/SeanBoy
