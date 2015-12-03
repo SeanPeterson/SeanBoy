@@ -25,11 +25,11 @@ The goal of this project is to improve upon Adafruit’s Pocket Pigrrl design in
 -Download latest ISO image from Software folder. Install on SD card for Raspberry Pi (detailed installation instructions <br>
 for different operatings systems can be found in the info file inside software directory). <br>
 -Button mappings for Adafruit's PiTFT screen can be found here: https://learn.adafruit.com/pocket-pigrrl/software-1 <br>
-
+-See goal 3 for build instruction (WILL MOVE HERE LATER)
 # Known Issues/Planned fixes
 -(FIXED - SEE GOAL 1) Currently the sound has major interference.. This problem seems to be a known issue as reported on the AdaFruit forums that is either resulting from the AdaFruit's amp, or the pi itself. <https://forums.adafruit.com/viewtopic.php?f=50&t=79200> <br>
--There's a gap between the top and bottom of the gameboy case. May need to extend sides and sand it down.<br>
--Magnet not doing a good job of keeping the case close, another screw in bottom right corner would work better. <br>
+-(FIXED IN GOAL 3) There's a gap between the top and bottom of the gameboy case. May need to extend sides and sand it down.<br>
+-(FIXED IN GOAL 3) Magnet not doing a good job of keeping the case close, another screw in bottom right corner would work better. <br>
 
 #Materials
 Coming soon ...
