@@ -1,0 +1,42 @@
+bottom 1.0
+
+raise outside by 2mm
+raist pi standoffss 2mm
+add screw holes for switch 4mm
+
+top 2.0
+increase button by 1mm (12mm total)
+lowered button breadbold screw by 1mm (make even with breadboard holders)
+Reduced thickness of breadboard holders (1mm)
+
+top4.0
+-removed top two breadboard standoffs
+-added stands (lowered 1.5mm from original standoffs) height=7.3mm
+lower everything by 1mm (including above so now 6.3mm)
+
+top (failed)
+lower buttons another mm
+wider standoffs
+add things for breadboard 2mm from others
+
+bottom v3
+raise everything 1mm
+attempt to get left corner screw lien
+increased sd card 2mm
+
+top5.0
+lower buttons another mm
+wider standoffs
+
+bottom v4 (failed)
+move screw hole bootms right 1mm back
+sink holes  .5mm
+
+top 6
+expand bottom left bb by 3mm
+
+bottom v4
+move screw hole bootms right 1mm back
+
+top7
+expand to back bb holders
