@@ -11,9 +11,9 @@ The goal of this project is to improve upon Adafruit’s Pocket Pigrrl design in
 
 2. The second milestone will be the inclusion of an audio jack. The PiGrrl currently only supports sound through a speaker which is inconvenient when there are other people in the same room as you. Doing this may require wiring a switch, to switch between the speaker and headphones.
 
-3. The fourth deliverability will be to backup save states to a cloud service, and also have the saves sync between different Raspberry Pi’s that may be connected to a single account. 
+3. The third milestone will be to use a different button design. This is because the PiGrrl uses NinjaFlex filament to print their buttons. Unfortunately this is a material not supported by the author’s 3D printer. Instead, the plan will be to take apart an original, or knock off, snes controller and use its buttons instead. This will both eliminate the noise  
 
-4. The third milestone will be to use a different button design. This is because the PiGrrl uses NinjaFlex filament to print their buttons. Unfortunately this is a material not supported by the author’s 3D printer. Instead, the plan will be to take apart an original, or knock off, snes controller and use its buttons instead. This will both eliminate the noise 
+4. The fourth deliverability will be to backup save states to a cloud service, and also have the saves sync between different Raspberry Pi’s that may be connected to a single account. 
 
 5. The fifth deliverability will be to use a Raspberry Pi2 instead, while keeping the size roughly the same. This would be a welcome improvement as it would greatly improve the systems emulation capabilities. As well, this may also mean adding an improved power supply to the console. 
 
