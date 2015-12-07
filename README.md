@@ -3,6 +3,8 @@
 Sean Peterson - University of Regina
 *Fall 2015 *
 
+https://youtu.be/0lDeOTESRT8
+
 # Overview
 The goal of this project is to improve upon Adafruit’s Pocket Pigrrl design in various ways. Ultimately the plan is to roughly keep the same dimensions while also adding a Raspberry Pi 2, an audio jack, and improving durability by ensuring that everything fits snuggly. From the software standpoint the project plans on providing a method in which the save states of games can not only be backup up to a cloud service, but that will effectively sync saved games between devices that are linked to the same cloud service.
 
