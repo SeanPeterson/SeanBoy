@@ -32,7 +32,20 @@ for different operatings systems can be found in the info file inside software d
 -(FIXED IN GOAL 3) Magnet not doing a good job of keeping the case close, another screw in bottom right corner would work better. <br>
 
 #Materials
-Coming soon ...
+-Raspberry Pi A+ (Exluding goal 5): 
+-2.4 Pitft screen: https://adafruit.com/products/2455
+-Powerboost 1000C: https://adafruit.com/products/2465
+-SparkFun mono amp breakout: https://www.sparkfun.com/products/11044
+-Battery: https://www.adafruit.com/products/2011
+-Solder breadboard: http://www.amazon.ca/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=solder+breadboard
+-26 pin ribbon cable: https://www.adafruit.com/product/862
+-Tactile buttons: https://www.adafruit.com/product/1489
+-Mini speaker: https://www.adafruit.com/product/1890
+-Slide switch
+-Knockoff nes controller: http://www.amazon.ca/RetroLink-NES-Classic-USB-Controller/dp/B009DG2WZS/ref=sr_1_13?ie=UTF8&qid=1449521084&sr=8-13&keywords=nes+controller
+-Audio jack: http://www.canadarobotix.com/cables-wires/audio-jack-3-5-mm
+-8 pink switch: Scavange from old electronics
+
 
 # Project
 Code, and diagrams can be found here: https://github.com/SeanPeterson/SeanBoy
