@@ -44,7 +44,7 @@ for different operatings systems can be found in the info file inside software d
 -Slide switch <br>
 -Knockoff nes controller: http://www.amazon.ca/RetroLink-NES-Classic-USB-Controller/dp/B009DG2WZS/ref=sr_1_13?ie=UTF8&qid=1449521084&sr=8-13&keywords=nes+controller<br>
 -Audio jack: http://www.canadarobotix.com/cables-wires/audio-jack-3-5-mm<br>
--8 pink switch: Scavange from old electronics<br>
+-6 pin switch: Scavange from old electronics<br>
 
 
 # Project
