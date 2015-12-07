@@ -54,4 +54,9 @@ for different operatings systems can be found in the info file inside software d
 Code, and diagrams can be found here: https://github.com/SeanPeterson/SeanBoy
 
 Note: Work in progress, code/diagrams are added as worked on
-This is free and unencumbered software released into the public domain.
+This is free and unencumbered software released into the public domain. <br>
+
+#Contact
+Email: seanpeterson.997@gmail.com <br>
+For questions about the project the best place to ask is on this projects Thingverse page <br>
+Link coming soon ...
